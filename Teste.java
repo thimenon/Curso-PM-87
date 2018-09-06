@@ -5,5 +5,6 @@ class Teste{
        System.out.println("Exemplo de java");
        System.out.println("Exemplo de java hdkjhbsakjfd");
        System.out.println("Mais uma linha");
+       System.out.println("Teste SGA");
    }  
 }
